@@ -3,35 +3,41 @@
 <!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F72D&center=true&vCenter=true&width=900&lines=Computer+Engineer;Data+Analyst+%7C+Business+Analyst;Building+Analytics+Systems;Professional+CSV+Therapist;Turning+Dashboards+Into+Decisions" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00F72D&center=true&vCenter=true&width=950&lines=Computer+Engineer;Data+Analyst+%7C+Business+Analyst;Building+Analytics+Systems;Professional+CSV+Therapist;Debugging+Reality+With+SQL" />
 </p>
 
 <h3 align="center">
 Turning campaign chaos into dashboards and decisions.
 </h3>
-
-<br>
-
-<!-- COOLER GIF -->
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmQxaWpvYnhkaGQ5c21id3d3bW1sOG11MjFwaWE4Y205MTFseXJ4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rMEJyjch7L1tlRlCl3/giphy.gif" width="260">
 </p>
+<br>
+
+```yaml
+> booting aryan.ex
+system_status:
+
+[✓]  dashboards: operational
+[✓] attribution_models: stable
+[!] stakeholder_requests: increasing
+[✗]sleep_schedule: corrupted
+```
+
+<br>
+
 
 <br>
 
 <!-- ===================================================== -->
-<!--                    TERMINAL BLOCK                     -->
+<!--                    PACMAN GAME                        -->
 <!-- ===================================================== -->
 
-```bash
-> booting aryan.exe
+## 👾 Escaping Production Bugs
 
-[✓] dashboards deployed
-[✓] KPIs tracked
-[✓] anomalies detected
-[✓] business insights generated
-[✗] stakeholders read documentation
-```
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
+</p>
 
 <br>
 
@@ -39,11 +45,11 @@ Turning campaign chaos into dashboards and decisions.
 <!--                  CURRENT BOSS FIGHT                   -->
 <!-- ===================================================== -->
 
-## 🎯 Constant Fight
+## 🎯 Current Boss Fight
 
 ```bash
-Current Mood:
-Debugging something that worked 5 minutes ago.
+[WARNING] stakeholder requested "small changes"
+[CRITICAL] dashboard redesigned for the 4th time
 ```
 
 <br>
@@ -52,14 +58,14 @@ Debugging something that worked 5 minutes ago.
 <!--                   WHAT I WORK ON                      -->
 <!-- ===================================================== -->
 
-## 🚀 What I Work On
+## 🚀 What I Build
 
-- Analytics dashboards
-- Campaign performance analysis
-- Attribution modelling
-- KPI tracking systems
-- Business insight generation
-- Anomaly detection
+- Analytics dashboards that support business decisions
+- KPI tracking and reporting systems
+- Attribution and campaign performance analysis
+- Anomaly detection pipelines
+- Interactive analytics apps using Streamlit
+- Business intelligence and insight generation
 
 <br>
 
@@ -79,7 +85,9 @@ Debugging something that worked 5 minutes ago.
 
 <img src="https://skillicons.dev/icons?i=python,mysql"/>
 
-Python • SQL • Pandas • NumPy
+Python • SQL  
+Pandas • NumPy  
+EDA • Data Cleaning
 
 </td>
 
@@ -88,9 +96,9 @@ Python • SQL • Pandas • NumPy
 ### 📈 Business
 
 KPI Tracking  
-Reporting  
+Dashboarding  
 Attribution Analysis  
-Dashboarding
+Reporting & Insights
 
 </td>
 
@@ -101,13 +109,27 @@ Dashboarding
 <img src="https://skillicons.dev/icons?i=js"/>
 
 Power BI • Streamlit  
-Plotly • Scikit-learn
+Plotly • Scikit-learn  
+Analytics Systems
 
 </td>
 </tr>
 </table>
 
 </div>
+
+<br>
+
+```bash
+skills --load
+
+> Python
+> SQL
+> Power BI
+> KPI Tracking
+> Attribution Analysis
+> surviving CSV files
+```
 
 <br>
 
@@ -119,19 +141,19 @@ Plotly • Scikit-learn
 
 ### 🚀 Ad Spend Intelligence Platform
 
-Multi-channel attribution + KPI tracking + anomaly detection system analysing ₹12Cr+ ad spend.
+Production-style analytics system for attribution modelling, anomaly detection, and KPI monitoring across ₹12Cr+ ad spend.
 
 ### 📊 Billboard Fraud Analytics
 
-Advertising anomaly detection and monitoring dashboards using Python + Power BI.
+Fraud detection and monitoring engine for identifying suspicious advertising patterns using anomaly analytics.
 
 ### 🛒 E-Commerce Intelligence Dashboard
 
-Customer segmentation, revenue analysis, and regional performance tracking.
+Business intelligence dashboard analysing customer behaviour, revenue trends, and regional sales performance.
 
 ### 💬 Sentiment Analysis Engine
 
-Analysed 1.5M+ reviews using NLP and classification models.
+NLP-powered review analytics system processing 1.5M+ customer reviews for sentiment and trend analysis.
 
 <br>
 
@@ -139,11 +161,7 @@ Analysed 1.5M+ reviews using NLP and classification models.
 <!--                    FUN SECTION                        -->
 <!-- ===================================================== -->
 
-##  Someone once said..
-
-
-
-<br>
+# 📜 Ancient Analyst Wisdom
 
 > "Every dashboard starts with someone saying ‘it’s just a quick task’."  
 > — probably me
@@ -174,23 +192,13 @@ Analysed 1.5M+ reviews using NLP and classification models.
 <!--                    GITHUB ACTIVITY                    -->
 <!-- ===================================================== -->
 
-## 📈 Activity
+## 📉 GitHub Activity (under investigation)
 
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=aryanpange&theme=chartreuse-dark&hide_border=true&background=000000"/>
-</p>
-
-<br>
-
-<!-- ===================================================== -->
-<!--                    PACMAN GAME                        -->
-<!-- ===================================================== -->
-
-## 👾 Pacman Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="snake animation"/>
-</p>
+```bash
+[INFO] contributions exist
+[WARNING] consistency not found
+[INFO] blaming college assignments
+```
 
 <br>
 
@@ -201,13 +209,13 @@ Analysed 1.5M+ reviews using NLP and classification models.
 ## 🥚 Easter Egg
 
 ```bash
-> WARNING:
-> there may or may not be a cursed repository hidden somewhere here.
+[ERROR]
+repository integrity compromised
 ```
 
 ```text
-repo hint:
-dont-open-this-repo
+hint:
+the repo definitely does NOT contain cursed CSV files
 ```
 
 <br>
@@ -220,5 +228,5 @@ dont-open-this-repo
 [INFO] Connecting to database...
 [SUCCESS] Insights generated
 [WARNING] Stakeholder requested pie chart
-[SUCCESS] Dashboard deployed
+[CRITICAL] sanity levels dropping
 ```
