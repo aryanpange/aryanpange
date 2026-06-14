@@ -176,6 +176,10 @@ NLP-powered review analytics system processing 1.5M+ customer reviews for sentim
 
 <p align="center">
 
+<a href="https://aryan-pange.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-101010?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
 <a href="https://linkedin.com/in/aryan-pange-a11376247">
 <img src="https://img.shields.io/badge/LinkedIn-101010?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/>
 </a>
